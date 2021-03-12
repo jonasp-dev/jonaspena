@@ -6,7 +6,7 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        url: " http://jonaspenacom.local/graphql",
+        url: "http://jonaspenacom.local/graphql",
       },
     },
     "gatsby-plugin-postcss",
